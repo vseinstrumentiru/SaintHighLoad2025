@@ -9,3 +9,5 @@
 6. [Workshop: The Art of SLOs bu Google](https://sre.google/resources/practices-and-processes/art-of-slos/) - тренинг по базовым основам определения SLI/SLO
 7. [SLO Document Example из SRE Workbook](https://sre.google/workbook/slo-document/)
 8. [The SLO Development Lifecycle от Nobl9](https://www.slodlc.com/)
+9. [ВсеИнструменты: Grafana доски для SLO](https://github.com/vseinstrumentiru/slojka/tree/main/dashboards/grafana)
+10. [ВсеИнструмены: форк sloth.dev для генерации правил подсчета и алертинга SLO](https://github.com/vseinstrumentiru/sloth)
