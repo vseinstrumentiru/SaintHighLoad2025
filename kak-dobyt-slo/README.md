@@ -11,3 +11,4 @@
 8. [The SLO Development Lifecycle от Nobl9](https://www.slodlc.com/)
 9. [ВсеИнструменты: Grafana доски для SLO](https://github.com/vseinstrumentiru/slojka/tree/main/dashboards/grafana)
 10. [ВсеИнструмены: форк sloth.dev для генерации правил подсчета и алертинга SLO](https://github.com/vseinstrumentiru/sloth)
+11. [Телеграмм группа ALLSLO по вопросам SLI/SLO - сообщество инженеров](https://t.me/allslo_ru)
