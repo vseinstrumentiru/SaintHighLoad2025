@@ -12,4 +12,5 @@
 9. [ВсеИнструменты: Grafana доски для SLO](https://github.com/vseinstrumentiru/slojka/tree/main/dashboards/grafana)
 10. [ВсеИнструмены: форк sloth.dev для генерации правил подсчета и алертинга SLO](https://github.com/vseinstrumentiru/sloth)
 11. [ВсеИнструмены: шаблоны документации для SLO](https://github.com/vseinstrumentiru/slojka/tree/main/slo-docs-templates)
-12. [Телеграмм группа ALLSLO по вопросам SLI/SLO - сообщество инженеров](https://t.me/allslo_ru)
+12. [ВсеИнструмены: генератор yaml спецификации SLO для sloth.dev](https://github.com/vseinstrumentiru/slojka/tree/main/sloth-spec-gen)
+13. [Телеграмм группа ALLSLO по вопросам SLI/SLO - сообщество инженеров](https://t.me/allslo_ru)
