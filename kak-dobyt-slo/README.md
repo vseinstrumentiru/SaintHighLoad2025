@@ -1,4 +1,4 @@
-# Материалы к докладу "Как добыть SLO: источники и инструменты гномов SREдней полосы"
+# Материалы к докладу "Как сложить SLO: наши инструменты и приспособления" (https://perfconf.ru/reports_11)
 
 Упомянутые в презентации материалы:
 1. [Defining slo: serevice level objective meaning](https://sre.google/sre-book/service-level-objectives/) (Google SRE Book, 2017)
