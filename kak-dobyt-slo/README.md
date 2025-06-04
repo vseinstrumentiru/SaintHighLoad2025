@@ -1,5 +1,7 @@
 # Материалы к докладу "Как добыть SLO: источники и инструменты гномов SREдней полосы"
 
+В программе https://highload.ru/spb/2025/abstracts/14385
+
 Упомянутые в презентации материалы:
 1. [Defining slo: serevice level objective meaning](https://sre.google/sre-book/service-level-objectives/) (Google SRE Book, 2017)
 2. [SRE Workbook. Chapter 2 - Implementing SLOs](https://sre.google/workbook/implementing-slos/)
